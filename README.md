@@ -1,24 +1,27 @@
-## Hi there 👋 It's me YOUR_NAME
+## Hi there 👋 It's me Kishanth
 
 **AI/ML Developer | Software Engineer | BICT (Hons) in ICT (Software Technology)**
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=790b7611athdortek6yosqoui9nnml6v1fexa7b4lfbt1jz2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-- 🔭 Here's my [portfolio](https://vermillion-dasik-31c1ee.netlify.app/)                                                 
-- 🌱 I’m currently learning BigData (Apache Hadoop)
+- 🔭 Here's my [portfolio](https://kisanth-kishanths-projects.vercel.app/)                                                 
+- 🌱 Currently deepening expertise in AI/ML algorithms, model deployment, and scalable full-stack development.
 - 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
+- 🤔 Preparing intensively for FAANG placements by honing skills in machine learning, system design, backend/frontend development, and coding interviews.
 - 💬 Ask me about Tech
 - 📫 How to reach me:
 
+
+
+
 <p>
-  <a href="https://medium.com/@sivasivatharshan12" target="_blank" rel="noopener noreferrer">
+  <a href="https://medium.com/@nanthakumarkishanth" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.linkedin.com/in/sivatharshan12/" target="_blank" rel="noopener noreferrer">
+  <a href="https://lk.linkedin.com/in/nanthakumar-kishanth" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/sivatharshan12" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.kaggle.com/nanthakumarkishanth" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
