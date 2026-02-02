@@ -45,5 +45,4 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
 
 
-[![](https://visitcount.itsvg.in/api?id=kishanth29&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-[![YOUR_NAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kishanth29&bg_color=100f0f&color=f8f6f6&line=999e4c&point=fcf7f7&area=true&hide_border=true)](https://github.com/kishanth29/github-readme-activity-graph)
+
